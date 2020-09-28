@@ -23,7 +23,7 @@ class _StackTestState extends State<StackTest> {
               maxWidth: MediaQuery.of(context).size.width * 0.7,
             ),
             color: Colors.grey,
-            child: Stack(
+            child: Stack(kojbhhingbmi,j ujn
               alignment: Alignment.center,
               fit: StackFit.passthrough,
               children: [
